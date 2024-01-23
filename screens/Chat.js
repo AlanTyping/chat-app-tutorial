@@ -6,5 +6,3 @@ export default function Chat() {
     <GiftedChat />
   )
 ;}
-
-const styles = StyleSheet.create({});
